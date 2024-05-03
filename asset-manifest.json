@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FindCriminalByCopProject/static/css/main.f855e6bc.css",
-    "main.js": "/FindCriminalByCopProject/static/js/main.50b8b150.js",
+    "main.js": "/FindCriminalByCopProject/static/js/main.5fcadb6e.js",
     "static/js/453.bb13f89d.chunk.js": "/FindCriminalByCopProject/static/js/453.bb13f89d.chunk.js",
     "static/media/Nuravgram.jpg": "/FindCriminalByCopProject/static/media/Nuravgram.e3c068c60a50139ee0c7.jpg",
     "static/media/Narmis.jpg": "/FindCriminalByCopProject/static/media/Narmis.0d572aaeb13d0fea8842.jpg",
@@ -18,11 +18,11 @@
     "static/media/cop1.jpg": "/FindCriminalByCopProject/static/media/cop1.e671c29be05286bcf89f.jpg",
     "index.html": "/FindCriminalByCopProject/index.html",
     "main.f855e6bc.css.map": "/FindCriminalByCopProject/static/css/main.f855e6bc.css.map",
-    "main.50b8b150.js.map": "/FindCriminalByCopProject/static/js/main.50b8b150.js.map",
+    "main.5fcadb6e.js.map": "/FindCriminalByCopProject/static/js/main.5fcadb6e.js.map",
     "453.bb13f89d.chunk.js.map": "/FindCriminalByCopProject/static/js/453.bb13f89d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.50b8b150.js"
+    "static/js/main.5fcadb6e.js"
   ]
 }
