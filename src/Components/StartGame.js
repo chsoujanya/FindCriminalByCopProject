@@ -137,7 +137,7 @@ const StartGame = () => {
         
         <div className="container-fluid" style={{ backgroundColor: '#E0E0E0', display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", minHeight: "100vh" }}>
             {!gameStarted && (
-                <button className="btn btn-primary" style = {{ height: '80px', width: '500px', fontSize: '50px'}} onClick={handleStartGame}>
+                <button className="btn btn-primary" onClick={handleStartGame}>
                     Catch the criminal
                 </button>
             )}
