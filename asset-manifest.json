@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FindCriminalByCopProject/static/css/main.f855e6bc.css",
+    "main.js": "/FindCriminalByCopProject/static/js/main.50b8b150.js",
+    "static/js/453.bb13f89d.chunk.js": "/FindCriminalByCopProject/static/js/453.bb13f89d.chunk.js",
+    "static/media/Nuravgram.jpg": "/FindCriminalByCopProject/static/media/Nuravgram.e3c068c60a50139ee0c7.jpg",
+    "static/media/Narmis.jpg": "/FindCriminalByCopProject/static/media/Narmis.0d572aaeb13d0fea8842.jpg",
+    "static/media/Shekharvati.jpg": "/FindCriminalByCopProject/static/media/Shekharvati.bdd3911a03d4b8d9d545.jpg",
+    "static/media/Yapkashnagar.jpg": "/FindCriminalByCopProject/static/media/Yapkashnagar.6b1069a24aa079d0db09.jpg",
+    "static/media/Lihaspur.jpg": "/FindCriminalByCopProject/static/media/Lihaspur.916ff1dd2f047fd73bc9.jpg",
+    "static/media/EVBike1.jpg": "/FindCriminalByCopProject/static/media/EVBike1.47aaa5860810b1bf4f61.jpg",
+    "static/media/EVBike2.jpg": "/FindCriminalByCopProject/static/media/EVBike2.47aaa5860810b1bf4f61.jpg",
+    "static/media/EVSUV.jpg": "/FindCriminalByCopProject/static/media/EVSUV.89aaae40e3c35fc20ea9.jpg",
+    "static/media/cop3.jpg": "/FindCriminalByCopProject/static/media/cop3.ebcaa225008656c75a0a.jpg",
+    "static/media/EVCar.jpg": "/FindCriminalByCopProject/static/media/EVCar.388a8fa4d1985d1db3e6.jpg",
+    "static/media/criminal.jpg": "/FindCriminalByCopProject/static/media/criminal.bc59ff5eec26abd109d5.jpg",
+    "static/media/cop2.jpg": "/FindCriminalByCopProject/static/media/cop2.987e97f80217254397af.jpg",
+    "static/media/cop1.jpg": "/FindCriminalByCopProject/static/media/cop1.e671c29be05286bcf89f.jpg",
+    "index.html": "/FindCriminalByCopProject/index.html",
+    "main.f855e6bc.css.map": "/FindCriminalByCopProject/static/css/main.f855e6bc.css.map",
+    "main.50b8b150.js.map": "/FindCriminalByCopProject/static/js/main.50b8b150.js.map",
+    "453.bb13f89d.chunk.js.map": "/FindCriminalByCopProject/static/js/453.bb13f89d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.50b8b150.js"
+  ]
+}
